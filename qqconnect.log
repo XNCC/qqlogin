@@ -1,0 +1,45 @@
+0    DEBUG [2019-09-09 13:40:33]  Couldn't find template in cache for "index.ftl"("en_GB", UTF-8, parsed); will try to load it.
+3    DEBUG [2019-09-09 13:40:33]  TemplateLoader.findTemplateSource("index_en_GB.ftl"): Not found
+4    DEBUG [2019-09-09 13:40:33]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+5    DEBUG [2019-09-09 13:40:33]  TemplateLoader.findTemplateSource("index.ftl"): Found
+6    DEBUG [2019-09-09 13:40:33]  Loading template for "index.ftl"("en_GB", UTF-8, parsed) from "D:\\IdeaProjects\\qqlogin\\target\\classes\\templates\\index.ftl"
+35   DEBUG [2019-09-09 13:40:34]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-09-09 13:53:09]  Couldn't find template in cache for "index.ftl"("en_GB", UTF-8, parsed); will try to load it.
+3    DEBUG [2019-09-09 13:53:09]  TemplateLoader.findTemplateSource("index_en_GB.ftl"): Not found
+4    DEBUG [2019-09-09 13:53:09]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+8    DEBUG [2019-09-09 13:53:09]  TemplateLoader.findTemplateSource("index.ftl"): Found
+10   DEBUG [2019-09-09 13:53:09]  Loading template for "index.ftl"("en_GB", UTF-8, parsed) from "D:\\IdeaProjects\\qqlogin\\target\\classes\\templates\\index.ftl"
+35   DEBUG [2019-09-09 13:53:09]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+1793 DEBUG [2019-09-09 13:53:10]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+1795 DEBUG [2019-09-09 13:53:10]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-09-09 14:11:21]  Couldn't find template in cache for "index.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2    DEBUG [2019-09-09 14:11:21]  TemplateLoader.findTemplateSource("index_en_GB.ftl"): Not found
+4    DEBUG [2019-09-09 14:11:21]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+8    DEBUG [2019-09-09 14:11:21]  TemplateLoader.findTemplateSource("index.ftl"): Found
+9    DEBUG [2019-09-09 14:11:21]  Loading template for "index.ftl"("en_GB", UTF-8, parsed) from "D:\\IdeaProjects\\qqlogin\\target\\classes\\templates\\index.ftl"
+33   DEBUG [2019-09-09 14:11:21]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+1502 DEBUG [2019-09-09 14:11:22]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+1503 DEBUG [2019-09-09 14:11:22]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+7724 DEBUG [2019-09-09 14:11:29]  TemplateLoader.findTemplateSource("index_en_GB.ftl"): Not found
+7725 DEBUG [2019-09-09 14:11:29]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+7726 DEBUG [2019-09-09 14:11:29]  TemplateLoader.findTemplateSource("index.ftl"): Found
+7727 DEBUG [2019-09-09 14:11:29]  "index.ftl"("en_GB", UTF-8, parsed): using cached since D:\IdeaProjects\qqlogin\target\classes\templates\index.ftl hasn't changed.
+7728 DEBUG [2019-09-09 14:11:29]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-09-09 14:32:23]  Couldn't find template in cache for "index.ftl"("en_GB", UTF-8, parsed); will try to load it.
+5    DEBUG [2019-09-09 14:32:23]  TemplateLoader.findTemplateSource("index_en_GB.ftl"): Not found
+8    DEBUG [2019-09-09 14:32:23]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+11   DEBUG [2019-09-09 14:32:23]  TemplateLoader.findTemplateSource("index.ftl"): Found
+12   DEBUG [2019-09-09 14:32:23]  Loading template for "index.ftl"("en_GB", UTF-8, parsed) from "D:\\IdeaProjects\\qqlogin\\target\\classes\\templates\\index.ftl"
+43   DEBUG [2019-09-09 14:32:23]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+1    DEBUG [2019-09-10 10:54:37]  Couldn't find template in cache for "index.ftl"("en_GB", UTF-8, parsed); will try to load it.
+10   DEBUG [2019-09-10 10:54:37]  TemplateLoader.findTemplateSource("index_en_GB.ftl"): Not found
+12   DEBUG [2019-09-10 10:54:37]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+15   DEBUG [2019-09-10 10:54:37]  TemplateLoader.findTemplateSource("index.ftl"): Found
+16   DEBUG [2019-09-10 10:54:37]  Loading template for "index.ftl"("en_GB", UTF-8, parsed) from "D:\\IdeaProjects\\qqlogin\\target\\classes\\templates\\index.ftl"
+57   DEBUG [2019-09-10 10:54:37]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-09-10 18:29:46]  Couldn't find template in cache for "index.ftl"("en_GB", UTF-8, parsed); will try to load it.
+6    DEBUG [2019-09-10 18:29:46]  TemplateLoader.findTemplateSource("index_en_GB.ftl"): Not found
+7    DEBUG [2019-09-10 18:29:46]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+10   DEBUG [2019-09-10 18:29:46]  TemplateLoader.findTemplateSource("index.ftl"): Found
+11   DEBUG [2019-09-10 18:29:46]  Loading template for "index.ftl"("en_GB", UTF-8, parsed) from "D:\\IdeaProjects\\qqlogin\\target\\classes\\templates\\index.ftl"
+65   DEBUG [2019-09-10 18:29:46]  "index.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
